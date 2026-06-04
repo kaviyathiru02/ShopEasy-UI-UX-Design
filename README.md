@@ -1,12 +1,14 @@
 # ShopEasy-UI-UX-Design
 UI/UX design for a mobile e-commerce application created in Figma. 
-The project includes a complete user onboarding flow with:
+
+## Features
 Welcome Screen
 Sign Up Screen
 Email Verification Screen
 Profile Setup Screen
 Account Created Success Screen
-Tools Used:
+
+## Tools Used
 Figma
 UI/UX Design Principles
 
